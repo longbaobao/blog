@@ -9,9 +9,6 @@ tags:
   - 项目实战
 categories:
   - 大数据
-  - Spark
-  - Scala
-  - 项目实战
 keywords:  Spark 企业项目实战班、共享单车数据分析平台、精准广告推送DMP平台、移动商城业务支撑系统_实时充值数据检测统计平台
 ---
 课程简介
@@ -1248,7 +1245,7 @@ keywords:  Spark 企业项目实战班、共享单车数据分析平台、精准
              13.面试问题补充.mp4
              monitor_24.zip
              report.zip
-             
+
 <div id="jspay" sid="DVJ7Doy3515" style="display:none">DVJ7Doy3515</div>
 <script type="text/javascript" src="https://www.fageka.com/j.js"></script>
 <script type="text/javascript" src="https://www.fageka.com/f.js" charset="utf-8"></script>

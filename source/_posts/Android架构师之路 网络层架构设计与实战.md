@@ -8,8 +8,6 @@ tags:
   - 实战
 categories:
   - 移动开发
-  - Android
-  - 实战
 keywords: Android架构师之路 网络层架构设计与实战
 ---
 第1章 课前须知

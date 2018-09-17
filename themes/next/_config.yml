@@ -809,5 +809,13 @@ css: css
 js: js
 images: images
 
+gitalk:
+  enable: true
+  githubID: longbaobao
+  repo: longbaobao.github.io
+  ClientID: c122e609508f21141980
+  ClientSecret: c55a8fceebf8896b8ddb0e1beae98293b40b0954
+  adminUser: longbaobao
+  distractionFreeMode: true
 # Theme version
 version: 5.1.4

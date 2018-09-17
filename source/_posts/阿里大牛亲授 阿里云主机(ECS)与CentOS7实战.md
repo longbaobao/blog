@@ -10,12 +10,7 @@ tags:
   - 运维
   - 实战
 categories:
-  - Linux
-  - 阿里云
-  - ECS
-  - CentOS7
   - 运维
-  - 实战
 keywords: 阿里大牛亲授  阿里云主机(ECS)与CentOS7实战
 ---
 第1章 阿里云ECS基础篇

@@ -9,9 +9,6 @@ tags:
   - 面试
 categories:
   - 移动开发
-  - Android
-  - 实战
-  - 面试
 keywords: BAT大咖助力 全面升级Android面试
 ---
 第1章 打车课程项目整体介绍

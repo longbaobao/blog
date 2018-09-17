@@ -7,10 +7,7 @@ tags:
   - 机器学习
   - 实战
 categories:
-  - 算法与数据结构
-  - Python3
   - 机器学习
-  - 实战
 keywords: Python3入门机器学习 经典算法与应用
 ---
 第1章 欢迎来到 Python3 玩转机器学习

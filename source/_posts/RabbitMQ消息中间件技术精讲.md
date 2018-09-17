@@ -9,9 +9,6 @@ tags:
   - 实战
 categories:
   - 运维
-  - RabbitMQ
-  - 中间件
-  - 实战
 keywords: RabbitMQ消息中间件技术精讲
 ---
 第1章 课程介绍（提供问答区答疑解惑）

@@ -7,8 +7,6 @@ tags:
   - 实战
   - 前端开发
 categories:
-  - 实战
-  - React
   - 前端开发
 keywords: React 16.4 开发简书项目 从零基础入门到实战
 ---

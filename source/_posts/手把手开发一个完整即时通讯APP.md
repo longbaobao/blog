@@ -8,8 +8,6 @@ tags:
   - 实战
 categories:
   - 移动开发
-  - Android
-  - 实战
 keywords: 带后台的IM即时通讯App 全程MVP手把手打造
 ---
 第1章 课程项目整体概述
