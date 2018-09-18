@@ -253,7 +253,6 @@ post_copyright:
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # ---------------------------------------------------------------
@@ -353,7 +352,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 0d97900be706fd2b4f05f89479c6ce8f
+baidu_analytics: 3f2224e84fb41c8beaba0224b5142794
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -418,7 +417,7 @@ gitment:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-baidushare: true
+baidushare: false
 ##  type: button
 
 # Share
@@ -465,7 +464,7 @@ needmoreshare2:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: UA-121920923-1
+google_analytics: UA-121920923-2
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
@@ -812,9 +811,9 @@ images: images
 gitalk:
   enable: true
   githubID: longbaobao
-  repo: longbaobao.github.io
-  ClientID: c122e609508f21141980
-  ClientSecret: c55a8fceebf8896b8ddb0e1beae98293b40b0954
+  repo: blog
+  ClientID: 58c55a7244de19e196b7
+  ClientSecret: 36193ea6255115da581cda3f178fa9dcccfe7873
   adminUser: longbaobao
   distractionFreeMode: true
 # Theme version
