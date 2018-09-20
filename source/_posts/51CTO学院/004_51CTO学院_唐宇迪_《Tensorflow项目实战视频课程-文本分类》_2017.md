@@ -7,6 +7,7 @@ tags:
   - Tensorflow
   - 实战
   - 文本分类
+  - 51CTO学院
 categories:
   - 人工智能
 keywords: Tensorflow项目实战视频课程-文本分类

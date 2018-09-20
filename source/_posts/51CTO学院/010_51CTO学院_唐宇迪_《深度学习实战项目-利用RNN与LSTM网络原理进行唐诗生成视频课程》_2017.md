@@ -7,6 +7,7 @@ tags:
   - 深度学习
   - LSTM网络
   - RNN
+  - 51CTO学院
 categories:
   - 人工智能
 keywords: 深度学习实战项目-利用RNN与LSTM网络原理进行唐诗生成视频课程

@@ -6,6 +6,7 @@ tags:
   - 人工智能
   - Tensorflow
   - 实战
+  - 51CTO学院
 categories:
   - 人工智能
 keywords: Tensorflow案例实战视频课程
